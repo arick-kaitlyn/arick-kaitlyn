@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a new software developer. I am excited to learn new tools and skills as I prepare for a career change. 
+Always looking to collaborate with others and looking for a study buddy.
 
 <!--
 **arick-kaitlyn/arick-kaitlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
